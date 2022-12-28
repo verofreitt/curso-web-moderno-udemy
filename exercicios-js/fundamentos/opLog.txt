@@ -1,0 +1,16 @@
+verdadeiro e verdadeiro = verdadeiro
+verdadeiro e falso = falso
+falso e falso = falso
+
+verdadeiro ou ? = verdadeiro
+falso ou verdadeiro = verdadeiro
+falso ou falso = falso
+
+
+verdadeiro xor verdadeiro = falso
+verdadeiro xor falso = verdadeiro
+falso xor verdadeiro = verdadeiro
+falso xor falso = falso
+
+!verdadeiro = falso
+!falso = verdadeiro
